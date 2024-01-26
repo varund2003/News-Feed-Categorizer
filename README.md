@@ -53,25 +53,7 @@ This application is designed to collect news articles from various RSS feeds, st
 3. Start the Celery worker: `celery -A main.app worker --loglevel=info`
 4. Run the main script to fetch and process news articles: `python main.py`
 
-## Deliverables
 
-- Python code for the application
-- Documentation explaining the implemented logic and design choices
-- The resulting data in sqldump, CSV, or JSON format
-
-## Assessment Criteria
-
-This test task assesses the candidate's abilities in:
-
-- Building and managing complex ETL pipelines
-- Building scheduling and distributed task management infrastructure
-- Working with data sources (RSS, APIs, etc.)
-- Implementing existing machine learning models
-
-## Notes
-
-- This is a general outline of the test task. Candidates are encouraged to add their own creative flair and showcase problem-solving and technical skills through the implementation.
-- The task is expected to be completed within a single day.
 
 ---
 
