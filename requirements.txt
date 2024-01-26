@@ -1,0 +1,4 @@
+celery==5.3.6
+feedparser==6.0.8
+SQLAlchemy==1.4.31
+nltk==3.6.5
